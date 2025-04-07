@@ -12,7 +12,7 @@ Almost all problems are solved using **Java**, with very few in Python or C++.
 | Java     | 0015  |
 | Python   | 0000  |
 | C++      | 0001  |
-| **Total** | **0000**   |
+| **Total** | **0016**   |
 
 ---
 
