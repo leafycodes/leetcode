@@ -31,13 +31,14 @@
 ---
 
 ### 📊 Summary
-- **Total Solved**: 21
+- **Total Solved**: 22
 - **By Language**:
   - Java: 15
   - C++: 1
   - JavaScript: 1
   - Shell: 4
+  - MySQL: 1
 - **By Difficulty**:
-  - Easy: 14
+  - Easy: 15
   - Medium: 6
   - Hard: 1
