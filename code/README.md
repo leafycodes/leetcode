@@ -24,7 +24,7 @@
 ## 📦 Others
 | Difficulty | Solved Problems | Count |
 |------------|-----------------|-------|
-| **Easy**   | -               | 0     |
+| **Easy**   | `2619`               | 1     |
 | **Medium** | -               | 0     |
 | **Hard**   | -               | 0     |
 
@@ -35,7 +35,8 @@
 - **By Language**:
   - Java: 15
   - C++: 1
+  - JavaScript: 1
 - **By Difficulty**:
-  - Easy: 11
+  - Easy: 12
   - Medium: 4
   - Hard: 1
