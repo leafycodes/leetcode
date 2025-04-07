@@ -9,10 +9,10 @@ Almost all problems are solved using **Java**, with very few in Python or C++.
 
 | Language | Count |
 |----------|-------|
-| Java     | 000   |
-| Python   | 000   |
-| C++      | 000   |
-| **Total** | **000**   |
+| Java     | 0015  |
+| Python   | 0000  |
+| C++      | 0001  |
+| **Total** | **0000**   |
 
 ---
 
