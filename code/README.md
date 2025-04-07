@@ -31,7 +31,7 @@
 ---
 
 ### 📊 Summary
-- **Total Solved**: 16
+- **Total Solved**: 17
 - **By Language**:
   - Java: 15
   - C++: 1
