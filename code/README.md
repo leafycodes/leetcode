@@ -24,19 +24,20 @@
 ## 📦 Others
 | Difficulty | Solved Problems | Count |
 |------------|-----------------|-------|
-| **Easy**   | `2619`               | 1     |
-| **Medium** | -               | 0     |
+| **Easy**   | `2619` `0193` `0195`               | 3   |
+| **Medium** | `0192` `0194`               | 2     |
 | **Hard**   | -               | 0     |
 
 ---
 
 ### 📊 Summary
-- **Total Solved**: 17
+- **Total Solved**: 21
 - **By Language**:
   - Java: 15
   - C++: 1
   - JavaScript: 1
+  - Shell: 4
 - **By Difficulty**:
-  - Easy: 12
-  - Medium: 4
+  - Easy: 14
+  - Medium: 6
   - Hard: 1
