@@ -1,7 +1,7 @@
 # 📘 LeetCode Solutions – Java Focused
 
 This repository contains my personal solutions to LeetCode problems.  
-Almost all problems are solved using **Java**, with very few in Python or C++.
+Almost all problems are solved using **Java**, with very few in Python, C++ or other.
 
 ---
 
@@ -9,10 +9,11 @@ Almost all problems are solved using **Java**, with very few in Python or C++.
 
 | Language | Count |
 |----------|-------|
-| Java     | 0015  |
-| Python   | 0000  |
-| C++      | 0001  |
-| **Total** | **0016**   |
+| Java     | 15  |
+| Python   | 0  |
+| C++      | 1  |
+| Others   | 1 |
+| **Total** | **17**   |
 
 ---
 
