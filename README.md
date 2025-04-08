@@ -12,8 +12,8 @@ Almost all problems are solved using **Java**, with very few in Python, C++ or o
 | Java     | 16  |
 | Python   | 0  |
 | C++      | 1  |
-| Others   | 6 |
-| **Total** | **23**   |
+| Others   | 7 |
+| **Total** | **24**   |
 
 ---
 

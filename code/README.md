@@ -26,19 +26,19 @@
 |------------|-----------------|-------|
 | **Easy**   | `2619` `0193` `0195` `0175`              | 4   |
 | **Medium** | `0192` `0194`               | 2     |
-| **Hard**   | -               | 0     |
+| **Hard**   | `0010`               | 1     |
 
 ---
 
 ### 📊 Summary
-- **Total Solved**: 23
+- **Total Solved**: 24
 - **By Language**:
   - Java: 16
   - C++: 1
-  - JavaScript: 1
+  - JavaScript: 2
   - Shell: 4
   - MySQL: 1
 - **By Difficulty**:
-  - Easy: 15
+  - Easy: 16
   - Medium: 6
-  - Hard: 1
+  - Hard: 2
