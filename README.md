@@ -15,8 +15,6 @@ Almost all problems are solved using **Java**, with very few in Python, C++ or o
 | Others   | 7 |
 | **Total** | **26**   |
 ---
->Note: The Question Numbers of Assessment Solutions are not tagged here explicitly, yet they are counted in the table.
----
 
 ## 📁 Folder Structure
 
