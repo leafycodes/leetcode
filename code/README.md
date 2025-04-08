@@ -3,7 +3,7 @@
 ## ☕ Java
 | Difficulty | Solved Problems                         | Count |
 |------------|-----------------------------------------|-------|
-| **Easy**   | `0001` `0009` `0141` `0206` `0283` `0387` `0704` `0896` `0905` `1822` `2529` `3396` | 12    |
+| **Easy**   | `0001` `0009` `0141` `0206` `0283` `0387` `0704` `0896` `0905` `1822` `2529` `3396` | 14    |
 | **Medium** | `0002` `0003` `0007`                     | 3     |
 | **Hard**   | `0004`                                   | 1     |
 
@@ -33,12 +33,15 @@
 ### 📊 Summary
 - **Total Solved**: 24
 - **By Language**:
-  - Java: 16
+  - Java: 18
   - C++: 1
   - JavaScript: 2
   - Shell: 4
   - MySQL: 1
 - **By Difficulty**:
-  - Easy: 16
+  - Easy: 18
   - Medium: 6
   - Hard: 2
+---
+
+>Note: The Question Numbers of Assessment Solutions are not tagged here explicitly, yet they are counted in the table.

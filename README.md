@@ -9,12 +9,13 @@ Almost all problems are solved using **Java**, with very few in Python, C++ or o
 
 | Language | Count |
 |----------|-------|
-| Java     | 16  |
+| Java     | 18  |
 | Python   | 0  |
 | C++      | 1  |
 | Others   | 7 |
-| **Total** | **24**   |
-
+| **Total** | **26**   |
+---
+>Note: The Question Numbers of Assessment Solutions are not tagged here explicitly, yet they are counted in the table.
 ---
 
 ## 📁 Folder Structure
