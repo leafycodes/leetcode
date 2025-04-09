@@ -10,7 +10,7 @@
 ## 🐍 Python
 | Difficulty | Solved Problems | Count |
 |------------|-----------------|-------|
-| **Easy**   | -               | 0     |
+| **Easy**   | `1317`               | 1     |
 | **Medium** | -               | 0     |
 | **Hard**   | -               | 0     |
 
@@ -31,15 +31,16 @@
 ---
 
 ### 📊 Summary
-- **Total Solved**: 27
+- **Total Solved**: 28
 - **By Language**:
   - Java: 19
   - C++: 1
+  - Python: 1
   - JavaScript: 2
   - Shell: 4
   - MySQL: 1
 - **By Difficulty**:
-  - Easy: 19
+  - Easy: 20
   - Medium: 6
   - Hard: 2
 ---
