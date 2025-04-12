@@ -5,7 +5,7 @@
 |------------|-----------------------------------------|-------|
 | **Easy**   | `0001` `0009` `0141` `0206` `0283` `0387` `0704` `0896` `0905` `1822` `2529` `3396` <br> `3375` `2843` | 16    |
 | **Medium** | `0002` `0003` `0007`                     | 3     |
-| **Hard**   | `0004` `2999`                                   | 2     |
+| **Hard**   | `0004` `2999` `3272`                                  | 2     |
 
 ## 🐍 Python
 | Difficulty | Solved Problems | Count |
@@ -31,9 +31,9 @@
 ---
 
 ### 📊 Summary
-- **Total Solved**: 30
+- **Total Solved**: 31
 - **By Language**:
-  - Java: 21
+  - Java: 22
   - C++: 1
   - Python: 1
   - JavaScript: 2
@@ -42,7 +42,7 @@
 - **By Difficulty**:
   - Easy: 21
   - Medium: 6
-  - Hard: 3
+  - Hard: 4
 ---
 
 >Note: The Question Numbers of Assessment Solutions are not tagged here explicitly, yet they are counted in the table.
