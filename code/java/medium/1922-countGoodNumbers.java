@@ -24,3 +24,5 @@ class Solution {
         return result;
     }
 }
+
+//took help from multiple people in the solutions section
