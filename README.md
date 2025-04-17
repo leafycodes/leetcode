@@ -9,11 +9,11 @@ Almost all problems are solved using **Java**, with very few in Python, C++ or o
 
 | Language | Count |
 |----------|-------|
-| Java     | 26  |
+| Java     | 27  |
 | Python   | 1  |
 | C++      | 1  |
 | Others   | 7 |
-| **Total** | **35**   |
+| **Total** | **36**   |
 ---
 
 ## 📁 Folder Structure
