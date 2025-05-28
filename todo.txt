@@ -46,6 +46,7 @@
 1518 e
 2894 e 1 way for loop, 1 way Arithmetic progression
 0283 e redo
+3372 m
 
 video css :root vs html
 make video on: https://codingfantasy.com/games/flexboxadventure
