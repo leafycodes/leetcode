@@ -1,32 +1,5 @@
-3556 m d
-3557 m d
-3558 m d
-2131 m d
-0238 m d
-0053 m d
-
-2620 e js d
-2724 e js d
-0169 e d
-
-0042 h d
-
-0121 e
-1857 h
-0033 m
-0001 e redo
-0189 m
-1518 e
-2894 e 1 way for loop, 1 way Arithmetic progression
-0283 e redo
-3372 m
-0069 e
-
-3373 h
-0054 m
-1572 e
-0240 m
-0074 m
+Questions to be updated:
+-
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
