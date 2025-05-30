@@ -1,13 +1,15 @@
-3556 m biweekly 157 rank 2961 13 points
-3557 m biweekly 157 rank 2961 13 points
-3558 m biweekly 157 rank 2961 13 points 3559 couldnt solve
-2620 e js
-2724 e js
-2131 m
-0238 m 2 accepted ways prefix/suffix-array pattern
-0169 e boyer-moore voting algorithm
-0053 m kadane's algorithm for max subarray sum
-0042 h
+3556 m d
+3557 m d
+3558 m d
+2131 m d
+0238 m d
+0053 m d
+
+2620 e js d
+2724 e js d
+0169 e d
+
+0042 h d
 
 0121 e
 1857 h
