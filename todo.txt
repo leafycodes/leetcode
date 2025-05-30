@@ -1,14 +1,3 @@
-2900 e
-2901 m
-0075 m
-1931 h
-3024 e
-3355 m
-0073 m
-3362 m
-3068 h
-2942 e
-
 3556 m biweekly 157 rank 2961 13 points
 3557 m biweekly 157 rank 2961 13 points
 3558 m biweekly 157 rank 2961 13 points 3559 couldnt solve
