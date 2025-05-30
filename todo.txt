@@ -1,14 +1,3 @@
-0017 m
-2918 m
-0026 e
-3545 e weekly 449 rank 11250 7 points
-3546 m weekly 449 rank 11250 7 points 3547 3548 couldnt solve
-1550 e
-0056 m
-2094 e
-3335 m
-3337 h
-
 2900 e
 2901 m
 0075 m
