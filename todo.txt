@@ -1,13 +1,3 @@
-3536 e weekly 448 rank 2704 7 points
-3537 m weekly 448 rank 2704 7 points 3538 3539 couldnt solve
-1128 e
-0015 m 2ways
-0016 m
-0790 m 2ways
-1920 e 2ways
-3341 m
-3342 m same as 3341 minor change
-3343 h
 0017 m
 2918 m
 0026 e
@@ -18,6 +8,7 @@
 2094 e
 3335 m
 3337 h
+
 2900 e
 2901 m
 0075 m
@@ -28,6 +19,7 @@
 3362 m
 3068 h
 2942 e
+
 3556 m biweekly 157 rank 2961 13 points
 3557 m biweekly 157 rank 2961 13 points
 3558 m biweekly 157 rank 2961 13 points 3559 couldnt solve
@@ -38,6 +30,7 @@
 0169 e boyer-moore voting algorithm
 0053 m kadane's algorithm for max subarray sum
 0042 h
+
 0121 e
 1857 h
 0033 m
@@ -48,6 +41,7 @@
 0283 e redo
 3372 m
 0069 e
+
 3373 h
 0054 m
 1572 e
@@ -55,4 +49,4 @@
 0074 m
 
 video css :root vs html
-make video on: https://codingfantasy.com/games/flexboxadventure
+video: https://codingfantasy.com/games/flexboxadventure
