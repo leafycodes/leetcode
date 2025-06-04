@@ -4,6 +4,11 @@ Questions to be updated:
 2929 m
 0135 h
 1298 h
+0182 e sql
+0183 e sql
+0196 e sql
+1965 e sql
+3404 m
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
