@@ -9,6 +9,10 @@ Questions to be updated:
 0196 e sql
 1965 e sql
 3404 m
+0125 e
+0657 e
+2129 e
+0443 m
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
