@@ -18,6 +18,7 @@ Questions to be updated:
 2434 m
 3572 m biweekly 158 rank 3573 3574 3575 couldnt solve 1/4 rank 13929 before bots removal (damn these days the contests are really hard) 4 points
 3170 m 
+0386 m js easy but java hard 2 langs
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
