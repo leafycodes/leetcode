@@ -30,6 +30,7 @@ Questions to be updated:
 3445 h
 0033 redo modified binary search + iterative (2 more ways, earleir 1 way) total 3 ways now
 3423 e
+0493 h
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
