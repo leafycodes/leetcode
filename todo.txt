@@ -29,6 +29,7 @@ Questions to be updated:
 0912 m mergeSort, randomized Quicksort
 3445 h
 0033 redo modified binary search + iterative (2 more ways, earleir 1 way) total 3 ways now
+3423 e
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
