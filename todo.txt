@@ -36,6 +36,7 @@ Questions to be updated:
 2616 m
 0051 h nQueens
 0062 m findWays
+0037 h sudokuSolver
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
