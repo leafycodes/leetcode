@@ -40,6 +40,7 @@ Questions to be updated:
 0036 m validSudoku
 2566 e
 0017 m redo by backtracking
+1432 m
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
