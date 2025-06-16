@@ -43,7 +43,6 @@ Questions to be updated:
 1432 m
 0875 m
 2016 e
-0896 e 200th problem (easy check monotonic array): just looking at a monotonic arrayList question and saw i haven't solved this one, so i did
-
+0896 e i thought it was 200th but actually i solved it in 2023 haha
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
