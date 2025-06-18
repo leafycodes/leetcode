@@ -47,6 +47,8 @@ Questions to be updated:
 3405 h 200th problem. i ahd an eye surgery so i took Help from the internet, had to sleep early
 2966 m
 2150 m
+2190 e
+0932 m 2 ways
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
