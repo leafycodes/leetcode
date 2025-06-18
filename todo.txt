@@ -54,7 +54,9 @@ Questions to be updated:
 0079 m
 0779 m
 1219 m
-0094 e 
+0094 e binary tree: inOrder traversal
+0144 e binary tree: preOrder traversal
+0145 e binary tree: postOrder traversal
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
