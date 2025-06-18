@@ -49,6 +49,11 @@ Questions to be updated:
 2150 m
 2190 e
 0932 m 2 ways
+2596 m
+0089 m
+0079 m
+0779 m
+1219 m
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
