@@ -60,6 +60,8 @@ Questions to be updated:
 2294 m
 0237 m
 0019 m remove nth node form end in linkedList
+0876 e middle of a linkedList
+0234 e palindrome linkedList
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
