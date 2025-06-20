@@ -64,6 +64,7 @@ Questions to be updated:
 0234 e palindrome linkedList
 0142 m detect index of cycle start in linkedList
 3443 m
+0052 h nQueens-II
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
