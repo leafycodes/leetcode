@@ -67,6 +67,8 @@ Questions to be updated:
 0052 h nQueens-II
 0148 m mergeSort on linkedList
 0143 m zigZag linkedList
+0160 e
+1721 m
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
