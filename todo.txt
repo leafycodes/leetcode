@@ -65,6 +65,8 @@ Questions to be updated:
 0142 m detect index of cycle start in linkedList
 3443 m
 0052 h nQueens-II
+0148 m mergeSort on linkedList
+0143 m zigZag linkedList
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
