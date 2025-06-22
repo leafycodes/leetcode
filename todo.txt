@@ -75,6 +75,7 @@ Questions to be updated:
 3587 m biweekly 159 1/4 . would be 2/4 but TLE for 9 cases :( rank 6628, 3588 3589 3590 couldn't solve
 0344 e
 0901 m
+2138 e
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
