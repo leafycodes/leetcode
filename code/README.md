@@ -27,7 +27,7 @@
   - Hard: 33
 
 > **📝 Note**  
-> - Assessment solutions are included in counts but not explicitly tagged  
+> - Assessment solutions are included in counts and tagged  
 > - Contest solutions appear in both:  
 >   - `contest/` folder (organized by event)  
 >   - `code/` folder (organized by language/difficulty)  
