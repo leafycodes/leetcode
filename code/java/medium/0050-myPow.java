@@ -9,3 +9,29 @@ class Solution {
         return x*pow(x*x,n/2);
     }
 }
+
+// way 2
+
+class Solution {
+    public double myPow(double x, int n) {
+        if (n < 0) {
+            return (double) 1 / fastExp(x, -(n + 1)) / x;
+        } else {
+            return fastExp(x, n);
+        }
+    }
+
+    private double fastExp(double x, int n) {
+        double res = 1;
+
+        while (n > 0) {
+            if ((n & 1) != 0) {
+                res *= x;
+            }
+            x *= x;
+            n >>= 1;
+        }
+
+        return res;
+    }
+}

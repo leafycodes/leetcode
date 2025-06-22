@@ -9,11 +9,11 @@ Almost all problems are solved using **Java**, with very few in Python, C++ or o
 
 | Language | Count |
 |----------|-------|
-| Java     | 136  |
+| Java     | 205  |
 | Python   | 1  |
 | C++      | 2  |
-| Others   | 20 |
-| **Total** | **158**   |
+| Others   | 25 |
+| **Total** | **231**   |
 ---
 
 ## 📁 Folder Structure
@@ -55,6 +55,7 @@ Almost all problems are solved using **Java**, with very few in Python, C++ or o
 
 - [LeetCode](https://leetcode.com/governor_leaf)
 - [GitHub](https://github.com/leafycodes)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/user/yukiflakes)
 
 ---
 

@@ -1,0 +1,7 @@
+biweekly 159
+rank 6628 (before bots removal)
+4 points
+
+1/4
+3588 TLE for 9 cases (didn't have patience to sit and optimize :/ )
+3589 3590 couldn't solve

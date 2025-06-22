@@ -1,81 +1,11 @@
 Questions to be updated:
-2359 m
-0909 m
-2929 m
-0135 h
-1298 h
-0182 e sql
-0183 e sql
-0196 e sql
-1965 e sql
-3404 m
-0125 e
-0657 e
-2129 e
-0443 m
-1061 m
-0242 e
-2434 m
-3572 m biweekly 158 rank 3573 3574 3575 couldnt solve 1/4 rank 13929 before bots removal (damn these days the contests are really hard) 4 points
-3170 m 
-0386 m js easy but java 2 ways, 2 langs 3 ways 
-0231 e 
-0191 e
-0338 e nlogn, n 2 ways
-0050 m using fast exponentiation redo
-0440 h
-3442 e
-3211 m
-0912 m mergeSort, randomized Quicksort
-3445 h
-0033 redo modified binary search + iterative (2 more ways, earlier 1 way) total 3 ways now
-3423 e
-0493 h
-0078 m
-0046 m 
-2616 m
-0051 h nQueens
-0062 m findWays
-0037 h sudokuSolver
-0036 m validSudoku
-2566 e
-0017 m redo by backtracking
-1432 m
-0875 m
-2016 e
-0896 e i thought it was 200th but actually i solved it in 2023 haha
-3405 h 200th problem. i ahd an eye surgery so i took Help from the internet, had to sleep early
-2966 m
-2150 m
-2190 e
-0932 m 2 ways
-2596 m
-0089 m
-0079 m
-0779 m
-1219 m
-0094 e binary tree: inOrder traversal
-0144 e binary tree: preOrder traversal
-0145 e binary tree: postOrder traversal
-2294 m
-0237 m
-0019 m remove nth node form end in linkedList
-0876 e middle of a linkedList
-0234 e palindrome linkedList
-0142 m detect index of cycle start in linkedList
-3443 m
-0052 h nQueens-II
-0148 m mergeSort on linkedList
-0143 m zigZag linkedList
-0160 e
-1721 m
-0707 m
-2807 m
-3085 m
-3587 m biweekly 159 1/4 . would be 2/4 but TLE for 9 cases :( rank 6628, 3588 3589 3590 couldn't solve
-0344 e
-0901 m
-2138 e
+
+
+ 
+
+
+
+
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
