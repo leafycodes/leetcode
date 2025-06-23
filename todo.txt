@@ -2,6 +2,10 @@ Questions to be updated:
 
 0084 h
 1614 e
+0071 m
+0394 m
+0042 h another way using stack
+2081 h
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
