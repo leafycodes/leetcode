@@ -6,6 +6,10 @@ Questions to be updated:
 0394 m
 0042 h another way using stack
 2081 h
+0387 e redo faster way
+1016 m
+0239 h
+2200 e
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
