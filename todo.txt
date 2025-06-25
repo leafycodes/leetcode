@@ -10,6 +10,7 @@ Questions to be updated:
 1016 m
 0239 h
 2200 e
+0239 h another way
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
