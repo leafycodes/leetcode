@@ -15,6 +15,16 @@ Questions to be updated:
 0646 m
 2040 h 
 2311 m
+1221 e
+0215 m 2 ways
+1663 m
+1029 m
+0179 m
+1047 e
+1209 m
+0402 m
+
+updated contest rank
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
