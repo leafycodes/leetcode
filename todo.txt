@@ -23,6 +23,11 @@ Questions to be updated:
 1047 e
 1209 m
 0402 m
+2014 h
+0102 m
+0104 e
+0222 e
+0035 e
 
 updated contest rank
 
