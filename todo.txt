@@ -28,6 +28,9 @@ Questions to be updated:
 0104 e
 0222 e
 0035 e
+0543 e 2 ways
+0572 e
+2099 e
 
 updated contest rank
 
