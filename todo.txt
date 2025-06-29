@@ -31,6 +31,11 @@ Questions to be updated:
 0543 e 2 ways
 0572 e
 2099 e
+1498 m
+0236 m 2 ways
+0257 e
+0783 e
+0530 e (exactly same code as 0783) - as i counted min always and not the  leftmost elements for 0783 hehe :D
 
 updated contest rank
 
