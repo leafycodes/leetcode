@@ -36,6 +36,8 @@ Questions to be updated:
 0257 e
 0783 e
 0530 e (exactly same code as 0783) - as i counted min always and not the  leftmost elements for 0783 hehe :D
+0594 e DCC June 2025 completed
+1483 h
 
 updated contest rank
 
