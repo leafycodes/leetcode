@@ -41,6 +41,11 @@ Questions to be updated:
 0965 e
 0226 e
 1325 m
+3330 e
+0700 e
+0450 m
+0938 e
+0098 m 2 ways
 
 updated contest rank
 
