@@ -63,8 +63,10 @@ Questions to be updated:
 0230 m
 1865 m
 1353 m cpp java
-0001 e +1 cpp
+0001 e redo/faster cpp
 0733 e LGSI java cpp
+1751 h
+0973 m cpp java
 
 updated contest rank
 
