@@ -64,6 +64,7 @@ Questions to be updated:
 1865 m
 1353 m cpp java
 0001 e +1 cpp
+0733 e LGSI java cpp
 
 updated contest rank
 
