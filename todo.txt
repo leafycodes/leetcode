@@ -67,6 +67,12 @@ Questions to be updated:
 0733 e LGSI java cpp
 1751 h
 0973 m cpp java
+1337 e cpp java
+3439 m
+0239 h redo cpp
+0023 h redo cpp
+0215 m redo cpp
+2208 m 
 
 updated contest rank
 
