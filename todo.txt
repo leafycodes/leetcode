@@ -74,6 +74,8 @@ Questions to be updated:
 0215 m redo cpp
 2208 m 
 3440 m
+2402 h
+0706 e this is my 300th problem on leetcode
 
 updated contest rank
 
