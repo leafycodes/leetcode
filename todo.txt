@@ -76,6 +76,8 @@ Questions to be updated:
 3440 m
 2402 h
 0706 e this is my 300th problem on leetcode 
+1900 h
+0349 e
 
 updated contest rank
 
