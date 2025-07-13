@@ -76,10 +76,15 @@ Questions to be updated:
 3440 m
 2402 h
 0706 e this is my 300th problem on leetcode 
-1900 h
+1900 h  
 0349 e
+2410 m
+0560 m
+1636 e
+0451 m
+0146 m another way
 
-updated contest rank
+updated contest rank    
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
