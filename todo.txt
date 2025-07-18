@@ -2,6 +2,10 @@
 3210 e
 3202 m
 1971 e
+1791 e  
+0997 e
+0146 m redo another way
+2163 h
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
