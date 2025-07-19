@@ -6,6 +6,10 @@
 0997 e
 0146 m redo another way
 2163 h
+3618 m biweekly contest 161
+3619 m biweekly contest 161 3620 couldnt attempt, 3621 TLE no time to finish
+1233 m
+
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
