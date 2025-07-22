@@ -12,6 +12,8 @@
 1948 h
 1957 e cpp (2 ways), java 1 way same as cpp
 1209 m redo cpp
+1695 m
+0785 m
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
