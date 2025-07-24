@@ -7,7 +7,7 @@
 0146 m redo another way
 2163 h
 3618 m biweekly contest 161
-3619 m biweekly contest 161 3620 couldnt attempt, 3621 TLE no time to finish
+3619 m biweekly contest 161 3620 couldn't attempt, 3621 TLE no time to finish
 1233 m
 1948 h
 1957 e cpp (2 ways), java 1 way same as cpp
@@ -15,6 +15,10 @@
 1695 m
 0785 m
 1717 m
+2322 h -> 300th java problem on leetcode
+0111 e
+
+updated contest rank (biweekly 161)
 
 video css :root vs html
 video: https://codingfantasy.com/games/flexboxadventure
