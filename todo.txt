@@ -17,7 +17,7 @@
 1717 m
 2322 h -> 300th java problem on leetcode
 0111 e
-3487 e
+3487 e cpp java
 
 updated contest rank (biweekly 161)
 
