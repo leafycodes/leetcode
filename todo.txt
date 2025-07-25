@@ -17,7 +17,7 @@
 1717 m
 2322 h -> 300th java problem on leetcode
 0111 e
-3487 e cpp java
+3487 e cpp (same logic, one with one for loop, one with two for loops) java
 
 updated contest rank (biweekly 161)
 
