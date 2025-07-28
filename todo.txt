@@ -21,6 +21,12 @@
 3480 h
 0797 m
 2210 e
+0994 m done again in cpp
+0695 m
+2044 m
+0127 h
+0207 m
+0210 m
 
 updated contest rank (biweekly 161)
 
