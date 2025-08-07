@@ -40,6 +40,8 @@
 3477 e
 1631 m
 3479 m
+3363 h
+0207 m java another way
 
 updated contest rank (biweekly 161)
 
