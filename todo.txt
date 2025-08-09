@@ -43,6 +43,8 @@
 3363 h
 0207 m java another way
 0808 m
+0231 e redo another way (same way different way to write)
+1254 m
 
 updated contest rank (biweekly 161)
 
