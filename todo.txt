@@ -60,6 +60,8 @@
 0070 e 2 ways 3 diff ways to write but 2 ways dp memo/tab2
 0509 e 3 ways (2 with dp) memo/tab
 0679 h
+0198 m tabulation
+2348 m
 
 updated contest rank (biweekly 161)
 
