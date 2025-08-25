@@ -69,6 +69,8 @@
 1493 m
 0213 m
 0337 m
+0474 m
+0498 m
 
 updated contest rank (biweekly 161)
 
