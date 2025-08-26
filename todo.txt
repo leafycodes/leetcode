@@ -73,6 +73,8 @@
 0498 m
 0518 m
 0322 m
+3000 e
+1143 m 2 ways dp -> tabulation and memoization
 
 updated contest rank (biweekly 161)
 
