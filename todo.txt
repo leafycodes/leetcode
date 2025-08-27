@@ -76,6 +76,8 @@
 3000 e
 1143 m 2 ways dp -> tabulation and memoization
 0300 m 2 ways 1d dp and 2d dp both tabulation
+0072 m
+3459 h
 
 updated contest rank (biweekly 161)
 
