@@ -90,6 +90,8 @@
 0022 m
 0714 m
 2749 m
+0329 m
+3495 h
 
 updated contest rank (biweekly 161)
 
