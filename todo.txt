@@ -93,6 +93,7 @@
 0329 m
 3495 h
 1304 e
+1317 e earlier done in python, now done in java
 
 updated contest rank (biweekly 161)
 
