@@ -94,6 +94,11 @@
 3495 h
 1304 e
 1317 e earlier done in python, now done in java
+2327 m
+0516 m
+0416 m earlier in cpp, now java
+1671 h
+1691 h
 
 updated contest rank (biweekly 161)
 
