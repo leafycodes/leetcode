@@ -88,17 +88,18 @@
 3027 h
 3516 e
 0022 m
-0714 m
+0714 m 2 ways
 2749 m
 0329 m
 3495 h
 1304 e
 1317 e earlier done in python, now done in java
 2327 m
-0516 m
+0516 m 2 ways
 0416 m earlier in cpp, now java
 1671 h
 1691 h
+1733 m
 
 updated contest rank (biweekly 161)
 
