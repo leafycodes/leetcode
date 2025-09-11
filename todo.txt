@@ -106,6 +106,10 @@
 0123 h
 0188 h
 0309 m
+0312 h
+1235 h
+2008 m
+2054 m
 
 make a separate folder for famous problems and family:
     -> best time to buy and sell stock (family)
