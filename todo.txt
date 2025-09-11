@@ -100,7 +100,16 @@
 1671 h
 1691 h
 1733 m
+2785 m
+0005 m another way
+0122 m another way
+0123 h
+0188 h
+0309 m
 
+make a separate folder for famous problems and family:
+    -> best time to buy and sell stock (family)
+      
 updated contest rank (biweekly 161)
 
 video css :root vs html
