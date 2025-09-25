@@ -125,6 +125,7 @@
 3005 e
 0165 m
 0166 m
+0120 m 2 ways
 
 make a separate folder for famous problems and family:
     -> best time to buy and sell stock (family)
