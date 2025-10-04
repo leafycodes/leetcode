@@ -126,6 +126,14 @@
 0165 m
 0166 m
 0120 m 2 ways
+0407 h 
+0611 m
+1039 m
+0812 e
+2221 m
+0976 e
+3100 m
+
 
 make a separate folder for famous problems and family:
     -> best time to buy and sell stock (family)
