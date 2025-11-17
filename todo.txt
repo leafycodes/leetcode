@@ -173,6 +173,9 @@
 2654 m
 3228 m
 2536 m
+3234 m
+1513 m
+1437 e
 
 make a separate folder for famous problems and family:
     -> best time to buy and sell stock (family)
