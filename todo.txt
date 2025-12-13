@@ -197,6 +197,10 @@
 1523 e
 1925 e
 3583 m
+3577 m
+3531 m 
+3433 m 
+3606 e 
 
 make a separate folder for famous problems and family:
     -> best time to buy and sell stock (family)
