@@ -205,6 +205,9 @@
 2147 h
 3562 h 
 3573 m
+0944 e
+3652 m
+2092 h
 
 make a separate folder for famous problems and family:
     -> best time to buy and sell stock (family)
