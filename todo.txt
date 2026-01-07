@@ -214,6 +214,14 @@
 3075 m
 2483 m
 0756 m
+1351 e
+0840 m
+1411 h
+1390 m
+1161 m
+1970 h
+0066 e
+0961 e
 
 make a separate folder for famous problems and family:
     -> best time to buy and sell stock (family)
