@@ -224,6 +224,34 @@
 0961 e
 1458 h
 0865 m
+1653 m
+0712 m
+1266 e
+3454 h
+3453 m
+2943 m
+2975 m
+3047 m
+1895 m
+1292 m
+3314 e
+3315 m
+3510 h
+1877 m
+1984 e
+1200 e
+3650 m
+3651 h
+2976 m
+2977 h
+0744 e
+3010 e
+3013 h
+3637 e
+3640 h
+3379 e
+3634 m
+
 
 make a separate folder for famous problems and family:
     -> best time to buy and sell stock (family)
