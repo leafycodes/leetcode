@@ -251,6 +251,16 @@
 3640 h
 3379 e
 3634 m
+3714 m
+0799 m
+0067 e
+0190 e
+0401 e
+0693 e
+0696 e
+0761 h
+0762 e
+0868 e
 
 
 make a separate folder for famous problems and family:
